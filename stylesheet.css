@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container{
+    background-size: cover;
+}
+.top-section {
+    background-color: #fb4e71;
+    height: 35vh;
+    padding: 12px;
+}
+
+.top-section-heading {
+    font-size: 29px;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.top-section-paragraph {
+    font-family: "Roboto";
+    font-size: 14.8px;
+    color: #ffffff;
+}
+
+.bottom-section {
+    margin: 1px;
+    font-family: "Roboto";
+    padding: 15px;
+    background-color: lightblue;
+}
+
+.sub-heading {
+    font-size: 17.5px;
+    font-weight: bold;
+}
+
+.IPL-Records-section {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    border-radius: 10px;
+}
+
+.empty {
+    margin: 20px;
+}
+
+.record-description {
+    padding: 6px;
+}
+
+.IPL-Records-section-heading {
+    font-size: 15px;
+}
+
+.IPL-Records-section-para {
+    font-size: 14.5px;
+    color: #888888;
+}
+
+.videos-description {
+    font-family: "Roboto";
+    font-size: 12px;
+    width: 107px;
+    color: #323f4b;
+}
+
+.button {
+    margin: 5px;
+}
